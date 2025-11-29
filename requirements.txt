@@ -1,0 +1,12 @@
+streamlit>=1.22.0
+chromadb>=0.4.2
+sentence-transformers>=2.2.2
+transformers>=4.40.0
+torch>=2.0.0
+pdfminer.six>=20221105
+python-docx>=0.8.11
+requests>=2.31.0
+numpy>=1.24.0
+pandas>=1.5.0
+python-dotenv>=1.0.0
+tqdm>=4.64.0
